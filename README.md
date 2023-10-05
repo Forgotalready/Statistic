@@ -7,3 +7,5 @@
 ![Image of 15,53 task](https://github.com/Forgotalready/Statistic/blob/main/Images/15%2C53.jpg)
 
 ![Image of 15,66 task](https://github.com/Forgotalready/Statistic/blob/main/Images/15%2C66.jpg)
+
+![Image of 15,79 task](https://github.com/Forgotalready/Statistic/blob/main/Images/15%2C79.jpg)
